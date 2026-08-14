@@ -8,7 +8,7 @@ A collection of programs and practical work for the **Data Structures & Algorith
 **Course:** Data Structures & Algorithms in C  
 **Language:** C  
 **Lab:** DSA Lab  
-**Tutor:** Prof. Sujeet Sir 
+**Tutor:** Prof. Sujeet Sir  
 **College:** B.P. Mandal College of Engineering, Madhepura
 
 ---
