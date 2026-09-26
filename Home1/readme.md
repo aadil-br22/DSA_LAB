@@ -1,6 +1,6 @@
-# DSA Home Assignment — Pointers, Arrays & Structures
+# DSA Home Assignment 1 — Pointers, Arrays & Structures
 
-A collection of C programs covering fundamental concepts of **Pointers, Arrays, and Structures**.
+A collection of C programs demonstrating **pointers, arrays, and structures**.
 
 ### Topics
 
@@ -20,13 +20,3 @@ A collection of C programs covering fundamental concepts of **Pointers, Arrays, 
 
 ### Language
 `C`
-
-### Details
-
-**Name:** Aadil Naushad  
-**Reg. No.:** 25105128047  
-**Course:** Data Structures & Algorithms  
-**Lab:** DSA Home Assignment  
-**College:** B.P. Mandal College of Engineering, Madhepura
-
-> **B.Tech CSE · DSA · Home Assignment**
